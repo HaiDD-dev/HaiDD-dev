@@ -1,5 +1,6 @@
 <div align="center">
-
+  <img width="800" src="gif.gif"/>
+  
   <h1>🌐 Socials</h3>
   <a href="https://facebook.com/duc.hai.07">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
