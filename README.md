@@ -28,9 +28,9 @@
 
   <br/><br/>
   <img src="https://raw.githubusercontent.com/HaiDD-dev/HaiDD-dev/output/snake.svg" alt="Snake animation" />
-
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Haidd-dev&show_icons=true&theme=tokyonight)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Haidd-dev&theme=tokyonight)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Haidd-dev&layout=compact&theme=tokyonight)
 </div>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Haidd-dev&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Haidd-dev&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Haidd-dev&layout=compact&theme=tokyonight)
+
