@@ -59,8 +59,5 @@
     alt="GitHub Streak"
   />
   <br/>
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Haidd-dev&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
+  ![](./profile-3d-contrib/profile-night-green.svg)
 </div>
