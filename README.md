@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800" src="gif.gif"/>
+  <img width="800" src="planet-and-moon.1920x1080.gif"/>
 
   <h1>🌐 Socials</h1>
   <a href="https://facebook.com/duc.hai.07">
