@@ -4,71 +4,60 @@
 
 # Hi, I'm Hai 👋
 
-### Backend Developer · Java & Node.js
+### Fullstack Developer & DevOps
 
-*Turning practical ideas into clear APIs and maintainable applications.*
+**Build. Ship. Automate.**
 
-<a href="mailto:HaiDD.CE192014@gmail.com"><img src="https://img.shields.io/badge/Let's_Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email" /></a>
+<a href="mailto:haidd.dev@gmail.com"><img src="https://img.shields.io/badge/Let's_Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email" /></a>
 <a href="https://github.com/HaiDD-dev?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## ⚡ About
 
-I'm **Hai**, a developer focused on **backend development** with Java, Spring Boot, Node.js, and Express. My interests include API design, relational data modeling, and the tools that support application delivery.
+From UI to API to deployment. I build applications and automate the path to delivery.
 
-I value **readable code, clear communication, and practical solutions**. My goal is to build software that addresses real business needs and is straightforward for a team to maintain and extend.
+**Clean code. Clear APIs. Repeatable builds.**
 
-- 🔧 **Focus:** Backend services, APIs, and relational databases.
-- 🌱 **Growing in:** Application architecture, caching, and delivery automation.
-- 🤝 **Let's talk:** Recruitment, technical discussions, and potential collaboration.
-
-## 🛠️ Technical toolkit
+## 🛠️ Stack
 
 <div align="center">
 
-### Languages & runtime
+### Code
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 
-### Backend frameworks
+### Backend
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 
-### Databases & caching
+### Data
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" alt="Microsoft SQL Server" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 
-### Tools & delivery
+### DevOps
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+
+### API tools
+
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=173647" alt="Swagger" />
 
 </div>
 
-## 🎯 Engineering priorities
-
-| Priority | What I aim for |
-| :--- | :--- |
-| **Business understanding** | Start with the problem, requirements, and expected behavior. |
-| **Maintainable code** | Use clear naming and focused responsibilities. |
-| **Reliable data** | Consider relationships, constraints, and consistency. |
-| **Clear APIs** | Make interfaces easy to understand, document, and verify. |
-| **Team collaboration** | Communicate decisions and tradeoffs to support review and handover. |
-
-## 📊 GitHub activity
+## 📊 Activity
 
 <div align="center">
 
@@ -90,12 +79,11 @@ I value **readable code, clear communication, and practical solutions**. My goal
 
 <div align="center">
 
-### 💬 Let's build something useful
+### 💬 Have a challenge? Let's build.
 
-Interested in my work or discussing an opportunity?<br />
-Share the role or project context — I'd be happy to connect.
+Open to opportunities & collaboration.
 
-**[HaiDD.CE192014@gmail.com](mailto:HaiDD.CE192014@gmail.com)**
+**[haidd.dev@gmail.com](mailto:haidd.dev@gmail.com)**
 
 <a href="https://facebook.com/duc.hai.07"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://instagram.com/ddh.hae"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
